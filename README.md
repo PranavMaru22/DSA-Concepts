@@ -1,8 +1,8 @@
-Description:
+**Description:**
 
 Welcome to the "Data Structures and Algorithms in C++" repository! This collection of C++ code and documentation is your comprehensive guide to mastering the fundamentals of data structures and algorithms.
 
-What's Inside:
+**What's Inside:**
 
 Data Structures: Explore a wide range of data structures, including arrays, linked lists, stacks, queues, trees, graphs, and more. Each data structure is implemented in Python with clear explanations and examples.
 
@@ -10,7 +10,7 @@ Algorithms: Dive into a rich library of algorithms for tasks like searching, sor
 
 Learning Resources: I've curated a list of recommended books, articles, and online courses to further your knowledge in the realm of DSA.
 
-Why Use This Repository:
+**Why Use This Repository:**
 
 Learn and Practice: Whether you're a beginner or an experienced programmer, this repository is a valuable resource to learn, practice, and improve your DSA skills in Python.
 
@@ -20,4 +20,3 @@ Open Source: This repository is open source, meaning you can collaborate, contri
 
 Structured and Detailed: The code and explanations are structured and detailed to ensure a comprehensive understanding. Comments and documentation are provided to make learning easy.
 
-Community: Join a community of like-minded developers who are passionate about DSA. Share your knowledge, ask questions, and grow together.
