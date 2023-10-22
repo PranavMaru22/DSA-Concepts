@@ -16,7 +16,5 @@ Learn and Practice: Whether you're a beginner or an experienced programmer, this
 
 Interview Preparation: Data Structures and Algorithms are essential for technical interviews. Use this repository to prepare for coding interviews at top tech companies.
 
-Open Source: This repository is open source, meaning you can collaborate, contribute, and improve the content. Feel free to fork, modify, and submit pull requests.
-
 Structured and Detailed: The code and explanations are structured and detailed to ensure a comprehensive understanding. Comments and documentation are provided to make learning easy.
 
